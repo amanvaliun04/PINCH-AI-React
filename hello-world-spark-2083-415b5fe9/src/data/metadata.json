@@ -1,0 +1,301 @@
+{
+  "holidayTypes": [
+    {
+      "id": "family-holidays",
+      "heroImage": "https://content.pinch.travel/images/home/family.webp",
+      "heroTitle": "Luxury family finds",
+      "heroSubtitle": "Handpicked family-friendly getaways, chosen for their style, quality, and charm.",
+      "heroSuptitle": "Family Holidays",
+      "title": "Discover a curated collection of luxury family holidays, designed to create unforgettable memories. From family-friendly resorts with kids' clubs to cultural experiences that engage all ages, these holidays offer the perfect blend of relaxation and adventure for families seeking quality time together."
+    },
+    {
+      "id": "multi-destinations-holidays",
+      "heroImage": "https://content.pinch.travel/images/home/multi.webp",
+      "heroTitle": "Experience More, Effortlessly",
+      "heroSubtitle": "Handcrafted itineraries that span continents and cultures",
+      "heroSuptitle": "Multi-Destinations",
+      "title": "Discover the world on one unforgettable trip, blending iconic cities and hidden gems into a single seamless experience."
+    },
+    {
+      "id": "safaris",
+      "heroImage": "https://content.pinch.travel/images/home/safari.webp",
+      "heroTitle": "Wildlife encounters in style",
+      "heroSubtitle": "Luxury lodges and guided game drives deep in nature",
+      "heroSuptitle": "Safaris",
+      "title": "Embark on a safari that balances thrilling wildlife sightings with five-star comfort under the African sky."
+    },
+    {
+      "id": "honeymoons",
+      "heroImage": "https://content.pinch.travel/images/home/honeymoon.webp",
+      "heroTitle": "Romantic escapes for two",
+      "heroSubtitle": "Tailored getaways to celebrate your new life together",
+      "heroSuptitle": "Honeymoons",
+      "title": "Create the perfect start to your married life with a honeymoon designed around intimacy, luxury, and unforgettable moments."
+    },
+    {
+      "id": "all-inclusive",
+      "heroImage": "https://content.pinch.travel/images/home/allinclusive.webp",
+      "heroTitle": "Effortless luxury, all included",
+      "heroSubtitle": "Stress-free vacations with every detail covered",
+      "heroSuptitle": "All-inclusive",
+      "title": "Indulge in a worry-free holiday where gourmet dining, premium drinks, and top-tier amenities are all part of the package."
+    },
+    {
+      "id": "luxury-beach-holidays",
+      "heroImage": "https://content.pinch.travel/images/home/luxury-beach.webp",
+      "heroTitle": "Sun, sand & sublime comfort",
+      "heroSubtitle": "Exclusive beachfront resorts with unparalleled style",
+      "heroSuptitle": "Luxury Beach Holidays",
+      "title": "Sink your toes into pristine sands and unwind in ocean-view villas at the world’s most stunning shorelines."
+    }
+  ],
+  "destinations": [
+    {
+      "id": "bali",
+      "location": [
+        "South East Asia",
+        "Bali"
+      ],
+      "heroSubtitle": "Serenity Wrapped In Island Luxury",
+      "contentTitle": "Embark on a journey through Indonesia's most enchanting island. Your adventure could start in the lush cultural heart of Ubud, and conclude with the laid-back charm of the southern coast.\\\n\\\nBali is perfect for travellers who crave a balance of culture, nature, and beach relaxation.",
+      "contentText": "Start your adventure in Bali, a vibrant island filled with lush scenery and deep spiritual traditions. Visit beautiful temples like Kehen, Gunung Kawi, and the holy springs of Tirta Empul. Stay in high-end propeties surrounded by rice terraces and jungle views in the peaceful town of Ubud. \\\n\\\nLater, head to Bali's southern coast for a memorable evening at Uluwatu Temple, where you can watch a spectacular sunset, see the famous Kecak dance, and finish the night with a seafood dinner on Jimbaran Beach.",
+      "price": 2779,
+      "heroImage": "/assets/images/asia/Bali.jpg",
+      "heroImageMobile": "/assets/images/asia/bali-mobile.jpg"
+    },
+    {
+      "id": "borneo",
+      "location": [
+        "South East Asia",
+        "Borneo"
+      ],
+      "heroSubtitle": "Wild Rainforests, Untamed Adventure",
+      "contentTitle": "Borneo offers a rare blend of untouched wilderness and refined comfort, making it one of Southeast Asia's most captivating luxury adventure destinations. Here, you can witness orangutans and proboscis monkeys in pristine rainforest reserves, glide along jungle rivers, and explore landscapes rich with exotic flora and dramatic mountain backdrops. \\\n\\\nAfter days of discovery, retreat to exclusive island resorts with private beaches, crystal-clear waters and world-class spa experiences. \\\nBorneo delivers the perfect balance of wild adventure and high-end indulgence an escape where nature, culture and luxury intertwine seamlessly.",
+      "contentText": "Begin in Sandakan, where you'll visit the renowned Sepilok Orangutan Rehabilitation Centre and the Sun Bear Conservation Centre for intimate, responsible wildlife experiences.\\\n\\\nContinue to the Kinabatangan River, one of Borneo's richest ecosystems, and stay at Sukau Rainforest Lodge. Cruise along the river with expert guides, watching for proboscis monkeys, hornbills and if you're lucky, wild orangutans in their natural habitat.\\\n\\\nAfter your rainforest adventure, unwind on the idyllic shores of Gaya Island. Enjoy peaceful beaches, nature walks and opportunities to explore the island's lush surroundings. Take a day trip to Mount Kinabalu Park and Poring Hot Springs to discover Borneo's towering peaks, dense forest and diverse plant life.\\\nThroughout your journey, private transfers, knowledgeable local guides and carefully curated experiences ensure a seamless and deeply rewarding exploration of Borneo's spectacular natural world.",
+      "price": 3129,
+      "heroImage": "/assets/images/asia/Borneo.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "botswana",
+      "location": [
+        "Africa",
+        "Botswana"
+      ],
+      "heroSubtitle": "Wilderness Perfected In Privacy",
+      "contentTitle": "Discover Botswana's wild heart on this exclusive 8-night luxury safari journey through three of the country's most iconic wilderness areas: Chobe National Park, the Okavango Delta, and the Linyanti Concession. Stay in world-class game lodges that blend elegant comfort with seamless access to extraordinary wildlife, from vast elephant herds and big cats to rare bird species and aquatic wildlife.",
+      "contentText": "Your adventure begins in Chobe National Park, famous for immense elephant herds and spectacular riverfront scenery. Enjoy boat safaris and game drives before heading deep into the Okavango Delta, a UNESCO World Heritage site and one of Africa's richest ecosystems. \\\n\\\nGlide along winding waterways in a mokoro canoe, track wildlife on foot, and savour sundowners as the sky ignites at dusk. Conclude your journey in the remote Linyanti Concession, where luxury camps offer exclusive access to pristine landscapes teeming with predators and rare species. This itinerary showcases the very best of Botswana combining intimate encounters with nature and impeccable service.",
+      "price": 7349,
+      "heroImage": "/assets/images/africa/Botswana.jpeg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "cambodia",
+      "location": [
+        "South East Asia",
+        "Cambodia"
+      ],
+      "heroSubtitle": "Timeless Heritage, Effortless Elegance",
+      "contentTitle": "Discover Cambodia in unparalleled comfort, from the majestic temples of Angkor in Siem Reap to the vibrant streets and refined dining of Phnom Penh. Conclude your journey on the pristine beaches of Koh Rong. \\\n\\\nWith private transfers, curated experiences, and world-class service, Cambodia offers a seamless blend of history, culture, and indulgent relaxation.",
+      "contentText": "Cambodia is a land of ancient temples, vibrant culture, and serene natural beauty. Marvel at the majestic temples of Angkor, from the mysterious Ta Prohm entwined with jungle roots to the iconic spires of Angkor Wat, a UNESCO World Heritage site. \\\n\\\nExplore the bustling capital, where rich history, colonial architecture, and lively markets coexist alongside reflections on the country's more recent past. Escape to pristine tropical beaches, where powdery sands and turquoise waters offer the ultimate in relaxation. With luxurious accommodations, private guides, and seamless service, Cambodia delivers an unforgettable blend of heritage, natural beauty, and indulgent comfort.",
+      "price": 3198,
+      "heroImage": "/assets/images/asia/Cambodia.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "kenya",
+      "location": [
+        "Africa",
+        "Kenya"
+      ],
+      "heroSubtitle": "Wild Beauty, Naturally Elevated",
+      "contentTitle": "Kenya delivers a breathtaking blend of iconic landscapes, rich wildlife, and refined safari elegance. Witness the drama of the Masai Mara, where rolling plains host the Great Migration and unforgettable Big Five encounters, all enjoyed from exclusive camps and expert-guided game drives. Explore the striking beauty of Laikipia and Amboseli, framed by Mount Kilimanjaro's snow-capped peak and home to remarkable conservation experiences.",
+      "contentText": "Kenya some of Africa’s most luxurious lodges. In the Masai Mara, exclusive tented camps bring you close to the Big Five, with expert guides leading you to sightings of lions, leopards, elephants, and the Great Migration herds. \\\nAmboseli’s boutique camps provide unforgettable views of elephants roaming beneath Mount Kilimanjaro. With gourmet dining, personalised service, and world-class comforts, Kenya delivers a seamless blend of luxury and exceptional wildlife.",
+      "price": 7149,
+      "heroImage": "/assets/images/africa/Kenya.jpg",
+      "heroImageMobile": "/assets/images/asia/Mozambique.png"
+    },
+    {
+      "id": "malaysia",
+      "location": [
+        "South East Asia",
+        "Malaysia"
+      ],
+      "heroSubtitle": "Culture, Comfort, Seamless Escape",
+      "contentTitle": "Malaysia offers an elegant blend of vibrant culture, lush landscapes and refined luxury. From stylish city escapes in Kuala Lumpur to tranquil highland retreats and idyllic tropical islands, the country delivers world-class hospitality, exceptional cuisine and unforgettable experiences. Malaysia is a place where rich tradition meets modern indulgence, creating the perfect setting for a seamless and sophisticated getaway.",
+      "contentText": "Discover the rich cultural tapestry and breathtaking natural beauty of Malaysia on this immersive and luxurious journey. Begin amidst the rolling emerald landscapes of the Cameron Highlands, where mist-shrouded tea plantations, mossy forests and colonial charm offer a refreshing escape. Explore the region's diverse flora on a guided rainforest trek, and indulge in an elegant afternoon tea at the iconic Smokehouse. In vibrant Kuala Lumpur, marvel at the towering Batu Caves and delve into the city's culinary soul with an insider-led food tour through bustling morning markets and the historic streets of Kampung Baru. Continue on to the captivating city of Malacca, a UNESCO-listed gem where Portuguese, Dutch and Chinese influences are woven through the architecture, cuisine and vibrant local culture — best discovered on foot and by river cruise. Finally, enjoy time at leisure on the serene shores of Tanjung Jara, soaking up the peaceful atmosphere before a seamless private transfer brings your Malaysian adventure to a graceful close. Throughout your journey, expert guides, thoughtfully curated experiences, and seamless travel arrangements ensure a truly enriching and effortless holiday.",
+      "price": 2989,
+      "heroImage": "/assets/images/asia/Malaysia.png",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "mozambique",
+      "location": [
+        "Africa",
+        "Mozambique"
+      ],
+      "heroSubtitle": "Barefoot Luxury By Nature",
+      "contentTitle": "Mozambique offers pristine beaches, turquoise waters, and exclusive island retreats. Private villas in the Bazaruto and Quirimbas archipelagos provide world-class service, stunning coral reefs, and intimate seclusion. Boutique lodges on the mainland blend contemporary comfort with local charm, while fresh seafood and elegant experiences complete the picture. ",
+      "contentText": "Beneath the surface, the warm Indian Ocean teems with vibrant coral reefs, manta rays, whale sharks, and tropical fish, making snorkelling, diving, and deep-sea fishing extraordinary experiences.\\\nOn the mainland, travellers can enjoy sophisticated coastal lodges, indulgent spa treatments, and gourmet cuisine highlighting the freshest seafood. From sunset cruises to kayaking through tranquil lagoons, Mozambique blends adventure, natural beauty, and serene luxury, offering an unforgettable retreat for those seeking both relaxation and exploration.",
+      "price": 7149,
+      "heroImage": "/assets/images/asia/Mozambique.png",
+      "heroImageMobile": "/assets/images/asia/Mozambique.png"
+    },
+    {
+      "id": "singapore",
+      "location": [
+        "South East Asia",
+        "Singapore"
+      ],
+      "heroSubtitle": "Urban Elegance, Perfectly Refined",
+      "contentTitle": "Embark on a captivating journey through the heart of Southeast Asia, beginning in Singapore; a city where futuristic architecture, rich cultural districts, lush urban gardens and world-class cuisine come together effortlessly. \\\n\\\nExplore its dynamic neighbourhoods, from the heritage streets of Chinatown and Little India to the cutting-edge designs of Marina Bay. With its seamless blend of modern sophistication, green spaces and vibrant traditions, Singapore offers an unforgettable experience for travellers of all ages.",
+      "contentText": "Begin an inspiring journey through Singapore, a city where modern sophistication meets rich cultural heritage. \\\nUpon arrival, enjoy a private transfer in style and settle into your luxurious accommodation. Explore the city's vibrant neighbourhoods with a guided tour, visiting the bustling markets of Bugis Street, the colourful streets of Little India, and the Malay heritage of Kampong Glam. \\\nTake in the iconic skyline at Marina Bay Sands and wander through the serene gardens and waterfronts that make Singapore so unique. Along the way, experience world-class dining, boutique shopping, and hidden urban gems, all curated for a seamless and enriching exploration of this dynamic city-state.",
+      "price": 3339,
+      "heroImage": "/assets/images/asia/Singapore.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "south-africa",
+      "location": [
+        "Africa",
+        "South Africa"
+      ],
+      "heroSubtitle": "Adventure Framed In Luxury",
+      "contentTitle": "Southern Africa offers an extraordinary blend of coastal glamour, world-renowned wildlife encounters, and breathtaking natural wonders. In Cape Town, sophisticated beachfront living meets iconic scenery, from the golden sands of Camps Bay to the dramatic backdrop of Table Mountain. Beyond the city, exclusive private reserves like the Sabi Sands deliver some of the most intimate Big Five sightings. With seamless service, exceptional accommodations, and diverse landscapes, Southern Africa promises an indulgent and inspiring escape.",
+      "contentText": "Venture into the country’s premier private reserves for the ultimate luxury safari, where expert guides lead intimate game drives in search of the Big Five. Return each evening to exquisite lodges offering private decks, fine dining, and uninterrupted views of the African wilderness. With seamless service, exclusive accommodations, and a diverse tapestry of landscapes, South Africa delivers a journey defined by sophistication, adventure, and natural wonder; perfectly suited for the discerning traveller.",
+      "price": 5329,
+      "heroImage": "/assets/images/africa/Safari-Lodge.png",
+      "heroImageMobile": "/assets/images/africa/Safari-Lodge.png"
+    },
+    {
+      "id": "tanzania",
+      "location": [
+        "Africa",
+        "Tanzania"
+      ],
+      "heroSubtitle": "Endless Horizons, Refined Safaris",
+      "contentTitle": "Tanzania captivates with its sweeping savannahs, abundant wildlife, and idyllic Indian Ocean coast. Experience the drama of the Serengeti, home to the Great Migration and unparalleled Big Five encounters, complemented by exquisite tented camps and world-class guiding.",
+      "contentText": "Tanzania offers one of Africa’s most exceptional luxury safari experiences, blending dramatic landscapes with extraordinary wildlife. In the Serengeti, opulent tented camps provide front-row views of the Great Migration and close encounters with lions, cheetahs, elephants, and giraffes.\\\n\\\nThe Ngorongoro Crater elevates the experience with cliff-top lodges overlooking an ancient caldera teeming with wildlife, including rare black rhino. Tanzania promises an unforgettable blend of adventure, luxury, and natural wonder.",
+      "price": null,
+      "heroImage": "/assets/images/africa/Safari-Lodge.png",
+      "heroImageMobile": "/assets/images/africa/Safari-Lodge.png"
+    },
+    {
+      "id": "vietnam",
+      "location": [
+        "South East Asia",
+        "Vietnam"
+      ],
+      "heroSubtitle": "Endless Charm, Elevated Journeys",
+      "contentTitle": "Discover the magic of Vietnam, from the timeless charm of Hanoi to the vibrant energy of Ho Chi Minh City. Cruise the emerald waters of Halong Bay aboard a luxury vessel, wander the lantern-lit streets of Hoi An, and explore the bustling markets and sleek skyline of the south. \\\nAlong the way, enjoy world-class accommodations, private cultural experiences, and gourmet cuisine, creating a seamless blend of heritage, natural beauty, and modern indulgence.",
+      "contentText": "Vietnam is a land where ancient heritage, vibrant culture, and breathtaking landscapes converge to create an unforgettable experience. From the bustling streets and tranquil temples of Hanoi to the emerald waters and towering limestone karsts of Halong Bay, the country offers a seamless blend of tradition and natural beauty. \\\nWander through historic citadels, charming towns, and lotus-filled gardens, and immerse yourself in the stories and flavours that define Vietnam. \\\n\\\nIn the south, discover dynamic cities, lush waterways, and serene coastal escapes, where modern comforts meet timeless charm. Throughout, luxurious accommodations, gourmet cuisine, and personalized experiences ensure an indulgent and deeply enriching journey.",
+      "price": 2979,
+      "heroImage": "/assets/images/asia/vietnam.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "zanzibar",
+      "location": [
+        "Africa",
+        "Zanzibar"
+      ],
+      "heroSubtitle": "Island Dreams, Luxuriously Simple",
+      "contentTitle": "Zanzibar is a tropical paradise of white-sand beaches, turquoise waters, and exclusive beachfront retreats. Stay in elegant villas and boutique resorts offering private pools, spa indulgence, and world-class dining. Snorkel vibrant coral reefs, sail on traditional dhows at sunset, or simply unwind in serene seclusion. Zanzibar combines natural beauty, rich culture, and sophisticated luxury to create an unforgettable island escape.",
+      "contentText": "Zanzibar is a haven of pristine white-sand beaches, turquoise waters, and exclusive beachfront sanctuaries, offering the perfect blend of relaxation, adventure, and indulgence. Luxury villas and boutique resorts feature private pools, overwater decks, and world-class spas, ensuring unrivalled comfort and personalised service. Beneath the waves, vibrant coral reefs teem with tropical fish, manta rays, and dolphins, ideal for snorkelling, diving, and private yacht excursions. On land, explore the historic streets of Stone Town, spice plantations, and hidden lagoons, or enjoy sunset cruises aboard traditional dhows. ",
+      "price": 1884,
+      "heroImage": "/assets/images/africa/Zanzibar.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "zimbabwe",
+      "location": [
+        "Africa",
+        "Zimbabwe"
+      ],
+      "heroSubtitle": "Majestic Landscapes, Graceful Stays",
+      "contentTitle": "Zimbabwe combines iconic wildlife, dramatic landscapes, and refined luxury for an unforgettable escape. Experience the Big Five on private safaris or enjoy intimate walking safaris led by expert guides. Marvel at the awe-inspiring Victoria Falls from luxury lodges, helicopter flights, or private river cruises. With boutique accommodations, gourmet dining, and personalised service, Zimbabwe offers a seamless blend of adventure, indulgence, and natural wonder.",
+      "contentText": "As well as offering world-class safari experiences set against dramatic landscapes, with luxurious lodges at the heart of its wilderness. In Hwange and Mana Pools, exclusive camps and boutique lodges place you in prime Big Five territory, where expert guides lead intimate game drives and walking safaris to encounter elephants, lions, leopards, and buffalo. Each lodge combines refined comfort, private decks, gourmet dining, and personalised service, creating the perfect base to relax and watch wildlife in pristine surroundings. From breathtaking views of Victoria Falls to serene riverfront retreats, Zimbabwe delivers an unmatched fusion of luxury and authentic safari adventure.",
+      "price": 7549,
+      "heroImage": "/assets/images/africa/Zimbabwe.jpg",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "dubai",
+      "location": [
+        "Middle East",
+        "Dubai"
+      ],
+      "heroSubtitle": "",
+      "contentTitle": "Dubai is a city where bold ambition meets uncompromising luxury. From its shimmering skyline to its serene desert landscapes, every experience here is designed to dazzle. Stay in iconic hotels where service is an art form, shop in vast designer malls or traditional souks, and dine at world-renowned restaurants led by Michelin-starred chefs. Beyond the glamour, discover private desert safaris, helicopter tours over the Palm, or tranquil moments aboard a luxury yacht on the Arabian Gulf — each day tailored to your desires.",
+      "contentText": "This is a place where the extraordinary comes as standard. Imagine sipping champagne atop the world’s tallest building, relaxing in lavish spa retreats, or dining under the stars amid golden dunes. Dubai’s effortless blend of modern elegance and timeless Arabian hospitality creates a unique allure, whether for a lavish short break or the centrepiece of an unforgettable holiday. Here, luxury isn’t simply experienced — it’s lived.",
+      "price": 1597,
+      "heroImage": "",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "maldives",
+      "location": [
+        "Indian Ocean",
+        "Maldives"
+      ],
+      "heroSubtitle": "Experience the ultimate in island luxury with our exclusive Maldives package.",
+      "contentTitle": "Drift away to the Maldives, where the world’s most exquisite islands await. Picture impossibly soft white sands, swaying palms, and the gentle lapping of warm, turquoise waters — the epitome of barefoot luxury. Whether you arrive by private seaplane or speedboat, every moment here is curated to perfection: overwater villas with infinity pools, Michelin-starred dining beneath the stars, and spas suspended over the ocean. Time slows to a blissful pause, inviting you to indulge in pure relaxation or bespoke adventures, from private yacht charters to diving pristine coral reefs.",
+      "contentText": "For those seeking true exclusivity, the Maldives offers an unparalleled sense of seclusion and indulgence. Days unfold in a world of effortless elegance and personalised service — breakfast served on your own stretch of beach, champagne picnics on deserted sandbanks, or sunset cruises with dolphins dancing alongside. Every element is crafted around you, creating an experience as unforgettable as the islands themselves. The Maldives isn’t just a holiday; it’s a celebration of life’s most luxurious moments.",
+      "price": 1979,
+      "heroImage": "",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "mauritius",
+      "location": [
+        "Indian Ocean",
+        "Mauritius"
+      ],
+      "heroSubtitle": "",
+      "contentTitle": "Mauritius is a tropical island where natural beauty and refined luxury blend seamlessly. Fringed by powder-white beaches and vibrant coral reefs, its lush interior hides waterfalls, sugar plantations and dramatic volcanic peaks. Stay in elegant beachfront resorts where impeccable service and world-class cuisine come as standard. Spend your days sailing on a private catamaran, teeing off on championship golf courses, or exploring local markets and Creole culture — all at your own unhurried pace.",
+      "contentText": "Every moment in Mauritius feels effortlessly indulgent. Start the morning with a sunrise yoga session overlooking the ocean, followed by a spa ritual inspired by the island’s healing traditions. Enjoy long, lazy lunches on the beach and champagne sundowners with toes in the sand. Whether you’re seeking the perfect honeymoon, a sophisticated family escape, or a place to simply switch off in style, Mauritius offers a luxury experience as warm and welcoming as the island itself.",
+      "price": 1341,
+      "heroImage": "",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "seychelles",
+      "location": [
+        "Indian Ocean",
+        "Seychelles"
+      ],
+      "heroSubtitle": "Wild Rainforests, Untamed Adventure",
+      "contentTitle": "Seychelles is the very definition of castaway luxury. Scattered across the sparkling Indian Ocean, these lush granite and coral islands offer an intoxicating blend of natural beauty and refined indulgence. Stay in secluded beachfront villas where the ocean is your private playground, dine on freshly caught seafood beneath star-strewn skies, or explore untouched marine reserves by private yacht. Every moment here invites you to unwind and reconnect in the most spectacular of settings.",
+      "contentText": "Days in Seychelles flow with an effortless elegance. Wake to the gentle sound of waves, followed by a sunrise paddleboard through crystal-clear lagoons. Wander through fragrant tropical gardens, enjoy personalised spa rituals inspired by local botanicals, or savour sunset cocktails with views that stretch to the horizon. Whether you seek barefoot romance, restorative seclusion or a luxurious family escape, Seychelles offers an experience of pure, unhurried bliss.",
+      "price": 1884,
+      "heroImage": "",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "sri-lanka",
+      "location": [
+        "Indian Subcontinent",
+        "Sri Lanka"
+      ],
+      "heroSubtitle": "Adventure Framed In Luxury",
+      "contentTitle": "Sri Lanka is a land of captivating contrasts, where ancient heritage and natural beauty meet luxurious modern experiences. From the golden beaches of the south coast to the rolling tea plantations of the central highlands, the island invites you to explore in style. Stay in elegant boutique hotels and private villas, journey through emerald landscapes aboard a vintage train, or encounter majestic wildlife on a bespoke safari — each moment rich with authenticity and indulgence.",
+      "contentText": "Here, every day offers a new rhythm. Start with a private yoga session overlooking misty hills, then wander through UNESCO-listed cities with your personal guide. Enjoy freshly prepared seafood on a deserted beach, or sip rare Ceylon teas in a plantation bungalow. Whether you’re drawn by culture, adventure or pure relaxation, Sri Lanka delivers a luxury experience that feels both deeply personal and utterly unforgettable.",
+      "price": 875,
+      "heroImage": "",
+      "heroImageMobile": ""
+    },
+    {
+      "id": "thailand",
+      "location": [
+        "Asia",
+        "Thailand"
+      ],
+      "heroSubtitle": "Adventure Framed In Luxury",
+      "contentTitle": "Thailand is a land where timeless culture and contemporary luxury intertwine. From the gilded temples of Bangkok to the tranquil beaches of the Andaman Sea, every corner offers something extraordinary. Stay in opulent resorts tucked away in lush jungles or perched above crystal-clear waters. Savour private dining on secluded beaches, explore vibrant night markets with expert guides, or take to the skies on a helicopter tour over dramatic limestone karsts — each experience crafted to inspire.",
+      "contentText": "Life here moves at your own chosen pace. Start your day with sunrise meditation overlooking ancient ruins, then glide through emerald lagoons aboard a private yacht. Unwind with indulgent spa treatments rooted in centuries-old Thai wisdom, followed by evenings of fine dining under the stars. Whether you’re seeking cultural discovery, tropical adventure or serene relaxation, Thailand offers a richly layered luxury escape that lingers long after the journey ends.",
+      "price": 2389,
+      "heroImage": "",
+      "heroImageMobile": ""
+    }
+  ]
+}

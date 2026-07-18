@@ -1,0 +1,14 @@
+/destinations/hotels/lux*-belle-mare        /destinations/lux-belle-mare.html        301
+/destinations/hotels/lux*-grand-gaube       /destinations/lux-grand-gaube.html       301
+/destinations/lux*-belle-mare               /destinations/lux-belle-mare.html        301
+/destinations/lux*-grand-gaube              /destinations/lux-grand-gaube.html       301
+/destinations/hotels/:slug        /destinations/:slug.html        200
+/destinations/hotels/:slug.html   /destinations/:slug.html        200
+/journeys/itineraries/:slug       /journeys/:slug.html            200
+/journeys/itineraries/:slug.html  /journeys/:slug.html            200
+/destinations/:slug               /destinations/:slug.html        200
+/journeys/:slug                   /journeys/:slug.html            200
+/holiday-types/:slug              /holiday-types/:slug.html       200
+/news                             /news.html                      200
+/news/:slug                       /news/:slug.html                200
+/:page                            /:page.html                     200
